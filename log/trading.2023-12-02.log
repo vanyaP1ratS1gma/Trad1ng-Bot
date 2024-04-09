@@ -1,0 +1,4 @@
+2023-12-02 19:39:58,987 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-02 19:40:00,139 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "30000","orderQty": "100"}
+2023-12-02 19:40:00,243 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-02 19:40:00,390 DEBUG org.adapter.controller.Controller: Position close for ticker: XBTUSD

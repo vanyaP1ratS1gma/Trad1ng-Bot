@@ -1,0 +1,29 @@
+2023-12-03 16:36:26,834 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 16:36:28,130 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "30000","orderQty": "100"}
+2023-12-03 16:36:28,263 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-03 16:36:28,378 DEBUG org.adapter.controller.Controller: Position close for ticker: XBTUSD
+2023-12-03 16:53:06,861 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 16:53:08,384 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSDT","side": "Buy","orderQty": "100"}
+2023-12-03 16:53:10,510 DEBUG org.adapter.controller.Controller: Position close for ticker: XBTUSDT
+2023-12-03 16:54:43,647 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 16:54:44,838 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-03 16:56:07,181 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 16:56:08,341 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-03 16:57:39,030 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 16:57:40,275 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-03 17:02:17,375 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 17:02:35,976 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 17:04:14,357 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 17:04:15,629 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-03 17:04:56,782 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 17:07:31,697 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 17:09:23,371 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 17:09:24,614 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-03 17:22:43,933 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 17:22:46,100 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "30000","orderQty": "100"}
+2023-12-03 17:24:35,093 DEBUG org.adapter.model.User: New user created for https://testnet.bitmex.com
+2023-12-03 21:10:46,206 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-03 21:10:47,647 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-03 21:18:09,009 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-03 22:06:01,643 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-03 22:06:05,647 DEBUG org.adapter.controller.Controller: Position close for ticker: XBTUSD

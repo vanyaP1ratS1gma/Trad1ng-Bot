@@ -1,0 +1,584 @@
+2023-12-06 00:01:03,703 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-06 00:08:41,271 DEBUG org.adapter.controller.Controller: Position close for ticker: XBTUSD
+2023-12-06 01:07:27,821 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-06 02:36:10,139 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-06 03:41:17,690 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-06 04:15:33,052 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-06 05:20:22,092 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-06 06:25:31,616 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-06 08:44:42,421 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 08:53:27,362 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 08:53:29,152 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1"}
+2023-12-06 08:53:31,267 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 09:00:43,233 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:00:44,591 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1"}
+2023-12-06 09:00:46,521 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 09:01:57,934 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:01:59,664 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1"}
+2023-12-06 09:03:00,420 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:03:16,453 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:04:02,089 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:11:04,422 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:13:11,257 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:18:38,991 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:21:00,735 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:21:59,434 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:24:26,224 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:25:34,841 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:32:08,085 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:32:59,484 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 09:44:00,198 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 10:09:17,117 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 10:29:33,032 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 10:44:32,780 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 11:15:43,748 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 11:16:46,643 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 11:16:47,925 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:48,030 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:48,128 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:48,227 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:48,331 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:48,434 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:48,539 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:48,633 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:48,746 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:48,842 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:48,939 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:49,026 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:49,118 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:49,211 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:49,344 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:49,444 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:49,553 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:49,650 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:49,741 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:16:49,843 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.998","orderQty": "1"}
+2023-12-06 11:33:39,147 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 11:47:18,335 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 11:47:19,578 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "66.778","orderQty": "1"}
+2023-12-06 11:47:19,667 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "67.77600000000001","orderQty": "1"}
+2023-12-06 11:47:19,792 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "68.77400000000002","orderQty": "1"}
+2023-12-06 11:47:19,908 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "69.77200000000002","orderQty": "1"}
+2023-12-06 11:47:20,039 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "70.77000000000002","orderQty": "1"}
+2023-12-06 11:47:20,177 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "71.76800000000003","orderQty": "1"}
+2023-12-06 11:47:20,308 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "72.76600000000003","orderQty": "1"}
+2023-12-06 11:47:20,403 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "73.76400000000004","orderQty": "1"}
+2023-12-06 11:47:20,606 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "74.76200000000004","orderQty": "1"}
+2023-12-06 11:47:20,699 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "75.76000000000005","orderQty": "1"}
+2023-12-06 11:47:20,827 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "76.75800000000005","orderQty": "1"}
+2023-12-06 11:47:20,919 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "77.75600000000006","orderQty": "1"}
+2023-12-06 11:47:21,023 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "78.75400000000006","orderQty": "1"}
+2023-12-06 11:47:21,121 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "79.75200000000007","orderQty": "1"}
+2023-12-06 11:47:21,217 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "80.75000000000007","orderQty": "1"}
+2023-12-06 11:47:21,306 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "81.74800000000008","orderQty": "1"}
+2023-12-06 11:47:21,386 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "82.74600000000008","orderQty": "1"}
+2023-12-06 11:47:21,489 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "83.74400000000009","orderQty": "1"}
+2023-12-06 11:47:21,594 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "84.74200000000009","orderQty": "1"}
+2023-12-06 11:47:21,684 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "85.7400000000001","orderQty": "1"}
+2023-12-06 11:48:55,442 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 11:53:20,820 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 11:53:22,108 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.77817999999999","orderQty": "1"}
+2023-12-06 11:53:22,212 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.64662363999999","orderQty": "1"}
+2023-12-06 11:53:22,312 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.51533039271999","orderQty": "1"}
+2023-12-06 11:53:22,423 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.38429973193455","orderQty": "1"}
+2023-12-06 11:53:22,524 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.25353113247068","orderQty": "1"}
+2023-12-06 11:53:22,637 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.12302407020574","orderQty": "1"}
+2023-12-06 11:53:22,741 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.99277802206534","orderQty": "1"}
+2023-12-06 11:53:22,850 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.8627924660212","orderQty": "1"}
+2023-12-06 11:53:22,963 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.73306688108916","orderQty": "1"}
+2023-12-06 11:53:23,063 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.60360074732698","orderQty": "1"}
+2023-12-06 11:53:23,316 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.47439354583233","orderQty": "1"}
+2023-12-06 11:53:23,423 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.34544475874067","orderQty": "1"}
+2023-12-06 11:53:23,537 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.21675386922318","orderQty": "1"}
+2023-12-06 11:53:23,639 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.08832036148473","orderQty": "1"}
+2023-12-06 11:53:23,739 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.960143720761764","orderQty": "1"}
+2023-12-06 11:53:23,841 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.83222343332024","orderQty": "1"}
+2023-12-06 11:53:23,930 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.7045589864536","orderQty": "1"}
+2023-12-06 11:53:24,021 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.57714986848069","orderQty": "1"}
+2023-12-06 11:53:24,138 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.449995568743724","orderQty": "1"}
+2023-12-06 11:53:24,228 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.32309557760624","orderQty": "1"}
+2023-12-06 12:01:49,367 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:01:51,153 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.77817999999999","orderQty": "1"}
+2023-12-06 12:01:51,263 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.64662363999999","orderQty": "1"}
+2023-12-06 12:01:51,395 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.51533039271999","orderQty": "1"}
+2023-12-06 12:01:51,504 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.38429973193455","orderQty": "1"}
+2023-12-06 12:01:51,606 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.25353113247068","orderQty": "1"}
+2023-12-06 12:01:51,872 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.12302407020574","orderQty": "1"}
+2023-12-06 12:01:52,015 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.99277802206534","orderQty": "1"}
+2023-12-06 12:01:52,164 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.8627924660212","orderQty": "1"}
+2023-12-06 12:01:52,255 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.73306688108916","orderQty": "1"}
+2023-12-06 12:01:52,362 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.60360074732698","orderQty": "1"}
+2023-12-06 12:01:52,462 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.47439354583233","orderQty": "1"}
+2023-12-06 12:01:52,557 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.34544475874067","orderQty": "1"}
+2023-12-06 12:01:52,653 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.21675386922318","orderQty": "1"}
+2023-12-06 12:01:52,758 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.08832036148473","orderQty": "1"}
+2023-12-06 12:01:52,849 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.960143720761764","orderQty": "1"}
+2023-12-06 12:01:52,937 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.83222343332024","orderQty": "1"}
+2023-12-06 12:01:53,038 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.7045589864536","orderQty": "1"}
+2023-12-06 12:01:53,143 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.57714986848069","orderQty": "1"}
+2023-12-06 12:01:53,244 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.449995568743724","orderQty": "1"}
+2023-12-06 12:01:53,349 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.32309557760624","orderQty": "1"}
+2023-12-06 12:02:43,664 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:02:46,163 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.77817999999999","orderQty": "1"}
+2023-12-06 12:02:46,267 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.64662363999999","orderQty": "1"}
+2023-12-06 12:02:46,369 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.51533039271999","orderQty": "1"}
+2023-12-06 12:02:46,462 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.38429973193455","orderQty": "1"}
+2023-12-06 12:02:46,586 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.25353113247068","orderQty": "1"}
+2023-12-06 12:02:46,699 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.12302407020574","orderQty": "1"}
+2023-12-06 12:02:46,836 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.99277802206534","orderQty": "1"}
+2023-12-06 12:02:46,956 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.8627924660212","orderQty": "1"}
+2023-12-06 12:02:47,078 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.73306688108916","orderQty": "1"}
+2023-12-06 12:02:47,186 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.60360074732698","orderQty": "1"}
+2023-12-06 12:02:47,283 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.47439354583233","orderQty": "1"}
+2023-12-06 12:02:47,414 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.34544475874067","orderQty": "1"}
+2023-12-06 12:02:47,503 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.21675386922318","orderQty": "1"}
+2023-12-06 12:02:47,604 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.08832036148473","orderQty": "1"}
+2023-12-06 12:02:47,722 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.960143720761764","orderQty": "1"}
+2023-12-06 12:02:47,825 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.83222343332024","orderQty": "1"}
+2023-12-06 12:02:47,965 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.7045589864536","orderQty": "1"}
+2023-12-06 12:02:48,065 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.57714986848069","orderQty": "1"}
+2023-12-06 12:02:48,326 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.449995568743724","orderQty": "1"}
+2023-12-06 12:02:48,427 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.32309557760624","orderQty": "1"}
+2023-12-06 12:03:42,135 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:03:43,691 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.77817999999999","orderQty": "1"}
+2023-12-06 12:03:43,958 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.64662363999999","orderQty": "1"}
+2023-12-06 12:03:44,059 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.51533039271999","orderQty": "1"}
+2023-12-06 12:03:44,156 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.38429973193455","orderQty": "1"}
+2023-12-06 12:03:44,291 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.25353113247068","orderQty": "1"}
+2023-12-06 12:03:44,387 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.12302407020574","orderQty": "1"}
+2023-12-06 12:03:44,490 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.99277802206534","orderQty": "1"}
+2023-12-06 12:03:44,748 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.8627924660212","orderQty": "1"}
+2023-12-06 12:03:44,850 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.73306688108916","orderQty": "1"}
+2023-12-06 12:03:44,943 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.60360074732698","orderQty": "1"}
+2023-12-06 12:03:45,054 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.47439354583233","orderQty": "1"}
+2023-12-06 12:03:45,159 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.34544475874067","orderQty": "1"}
+2023-12-06 12:03:45,254 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.21675386922318","orderQty": "1"}
+2023-12-06 12:03:45,359 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.08832036148473","orderQty": "1"}
+2023-12-06 12:03:45,467 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.960143720761764","orderQty": "1"}
+2023-12-06 12:03:45,560 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.83222343332024","orderQty": "1"}
+2023-12-06 12:03:45,671 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.7045589864536","orderQty": "1"}
+2023-12-06 12:03:45,784 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.57714986848069","orderQty": "1"}
+2023-12-06 12:03:45,893 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.449995568743724","orderQty": "1"}
+2023-12-06 12:03:45,989 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.32309557760624","orderQty": "1"}
+2023-12-06 12:04:38,113 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:04:41,054 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.77817999999999","orderQty": "1"}
+2023-12-06 12:04:41,154 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.64662363999999","orderQty": "1"}
+2023-12-06 12:07:26,882 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:07:28,363 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.0","orderQty": "1"}
+2023-12-06 12:07:28,466 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.0","orderQty": "1"}
+2023-12-06 12:08:26,547 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:08:27,948 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.0","orderQty": "1"}
+2023-12-06 12:08:28,074 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.0","orderQty": "1"}
+2023-12-06 12:12:43,170 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:13:37,170 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:16:09,039 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:16:36,291 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:20:21,979 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:20:43,074 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:25:13,777 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:26:22,407 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:26:51,453 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:27:32,359 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:28:00,807 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:28:47,226 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:30:17,123 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:31:52,714 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:33:27,665 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:34:03,944 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:35:37,010 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:38:14,935 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:38:44,335 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:39:03,787 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:39:23,833 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:40:19,198 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:40:20,555 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "65.44","orderQty": "1"}
+2023-12-06 12:40:20,677 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.98","orderQty": "1"}
+2023-12-06 12:40:20,788 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.52","orderQty": "1"}
+2023-12-06 12:40:20,902 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "64.06","orderQty": "1"}
+2023-12-06 12:40:21,005 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.61","orderQty": "1"}
+2023-12-06 12:40:21,108 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.16","orderQty": "1"}
+2023-12-06 12:40:21,303 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.71","orderQty": "1"}
+2023-12-06 12:40:21,429 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.27","orderQty": "1"}
+2023-12-06 12:40:21,525 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.83","orderQty": "1"}
+2023-12-06 12:40:21,625 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.39","orderQty": "1"}
+2023-12-06 12:42:15,842 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 12:55:45,357 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 12:55:46,565 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.75","orderQty": "1"}
+2023-12-06 12:55:46,660 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.3","orderQty": "1"}
+2023-12-06 12:55:46,785 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.85","orderQty": "1"}
+2023-12-06 12:55:46,915 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.41","orderQty": "1"}
+2023-12-06 12:55:47,016 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.97","orderQty": "1"}
+2023-12-06 12:55:47,146 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.53","orderQty": "1"}
+2023-12-06 12:55:47,244 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.09","orderQty": "1"}
+2023-12-06 12:55:47,345 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.66","orderQty": "1"}
+2023-12-06 12:55:47,442 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.23","orderQty": "1"}
+2023-12-06 12:55:47,549 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.8","orderQty": "1"}
+2023-12-06 12:55:47,639 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.38","orderQty": "1"}
+2023-12-06 12:55:47,737 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.96","orderQty": "1"}
+2023-12-06 12:55:47,841 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.54","orderQty": "1"}
+2023-12-06 12:55:47,947 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.13","orderQty": "1"}
+2023-12-06 12:55:48,038 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.72","orderQty": "1"}
+2023-12-06 12:55:48,138 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.31","orderQty": "1"}
+2023-12-06 12:55:48,233 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.9","orderQty": "1"}
+2023-12-06 12:55:48,322 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.5","orderQty": "1"}
+2023-12-06 12:55:48,423 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.1","orderQty": "1"}
+2023-12-06 12:55:48,522 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.7","orderQty": "1"}
+2023-12-06 13:33:15,118 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 13:33:16,317 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.58","orderQty": "1"}
+2023-12-06 13:33:16,424 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.14","orderQty": "1"}
+2023-12-06 13:33:16,529 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.7","orderQty": "1"}
+2023-12-06 13:33:16,650 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.26","orderQty": "1"}
+2023-12-06 13:33:16,749 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.83","orderQty": "1"}
+2023-12-06 13:33:16,851 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.4","orderQty": "1"}
+2023-12-06 13:33:16,944 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.97","orderQty": "1"}
+2023-12-06 13:33:17,045 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.55","orderQty": "1"}
+2023-12-06 13:33:17,142 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.13","orderQty": "1"}
+2023-12-06 13:33:17,233 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.71","orderQty": "1"}
+2023-12-06 13:33:17,327 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.29","orderQty": "1"}
+2023-12-06 13:33:17,422 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.88","orderQty": "1"}
+2023-12-06 13:33:17,508 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.47","orderQty": "1"}
+2023-12-06 13:33:17,606 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.06","orderQty": "1"}
+2023-12-06 13:33:17,714 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.66","orderQty": "1"}
+2023-12-06 13:33:18,238 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.26","orderQty": "1"}
+2023-12-06 13:33:18,340 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.86","orderQty": "1"}
+2023-12-06 13:33:18,430 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.46","orderQty": "1"}
+2023-12-06 13:33:18,530 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.07","orderQty": "1"}
+2023-12-06 13:33:18,616 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "54.68","orderQty": "1"}
+2023-12-06 14:02:54,207 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 14:11:27,060 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 14:11:28,726 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.7","orderQty": "1"}
+2023-12-06 14:11:28,837 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.26","orderQty": "1"}
+2023-12-06 14:11:28,926 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.82","orderQty": "1"}
+2023-12-06 14:11:29,028 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.38","orderQty": "1"}
+2023-12-06 14:11:29,119 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.95","orderQty": "1"}
+2023-12-06 14:11:29,225 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.52","orderQty": "1"}
+2023-12-06 14:11:29,318 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.09","orderQty": "1"}
+2023-12-06 14:11:29,412 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.66","orderQty": "1"}
+2023-12-06 14:11:29,513 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.24","orderQty": "1"}
+2023-12-06 14:11:29,610 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.82","orderQty": "1"}
+2023-12-06 14:11:29,772 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.4","orderQty": "1"}
+2023-12-06 14:11:29,868 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.99","orderQty": "1"}
+2023-12-06 14:11:29,969 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.58","orderQty": "1"}
+2023-12-06 14:11:30,064 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.17","orderQty": "1"}
+2023-12-06 14:11:30,166 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.76","orderQty": "1"}
+2023-12-06 14:11:30,279 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.36","orderQty": "1"}
+2023-12-06 14:11:30,374 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.96","orderQty": "1"}
+2023-12-06 14:11:30,473 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.56","orderQty": "1"}
+2023-12-06 14:11:30,558 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.17","orderQty": "1"}
+2023-12-06 14:11:30,660 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "54.78","orderQty": "1"}
+2023-12-06 14:12:57,593 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 14:56:26,559 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 14:56:27,768 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.03","orderQty": "1"}
+2023-12-06 14:56:27,864 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.58","orderQty": "1"}
+2023-12-06 14:56:27,968 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.14","orderQty": "1"}
+2023-12-06 14:56:28,069 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.7","orderQty": "1"}
+2023-12-06 14:56:28,152 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.26","orderQty": "1"}
+2023-12-06 14:56:28,319 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.83","orderQty": "1"}
+2023-12-06 14:56:28,443 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.4","orderQty": "1"}
+2023-12-06 14:56:28,691 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.97","orderQty": "1"}
+2023-12-06 14:56:28,790 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.55","orderQty": "1"}
+2023-12-06 14:56:28,885 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.13","orderQty": "1"}
+2023-12-06 14:56:28,981 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.71","orderQty": "1"}
+2023-12-06 14:56:29,072 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.29","orderQty": "1"}
+2023-12-06 14:56:29,162 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.88","orderQty": "1"}
+2023-12-06 14:56:29,277 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.47","orderQty": "1"}
+2023-12-06 14:56:29,374 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.06","orderQty": "1"}
+2023-12-06 14:56:29,512 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.66","orderQty": "1"}
+2023-12-06 14:56:29,602 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.26","orderQty": "1"}
+2023-12-06 14:56:29,779 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.86","orderQty": "1"}
+2023-12-06 14:56:29,870 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.46","orderQty": "1"}
+2023-12-06 14:56:29,954 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.07","orderQty": "1"}
+2023-12-06 15:10:08,436 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 15:12:53,229 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 15:12:55,182 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.97","orderQty": "1"}
+2023-12-06 15:12:55,284 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.52","orderQty": "1"}
+2023-12-06 15:12:55,429 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.08","orderQty": "1"}
+2023-12-06 15:12:55,689 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.64","orderQty": "1"}
+2023-12-06 15:12:55,800 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.2","orderQty": "1"}
+2023-12-06 15:12:55,912 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.77","orderQty": "1"}
+2023-12-06 15:12:56,022 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.34","orderQty": "1"}
+2023-12-06 15:12:56,143 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.91","orderQty": "1"}
+2023-12-06 15:12:56,280 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.49","orderQty": "1"}
+2023-12-06 15:12:56,389 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.07","orderQty": "1"}
+2023-12-06 15:12:56,497 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.65","orderQty": "1"}
+2023-12-06 15:12:56,597 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.23","orderQty": "1"}
+2023-12-06 15:12:56,700 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.82","orderQty": "1"}
+2023-12-06 15:12:56,824 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.41","orderQty": "1"}
+2023-12-06 15:12:56,937 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.0","orderQty": "1"}
+2023-12-06 15:12:57,032 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.6","orderQty": "1"}
+2023-12-06 15:12:57,128 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.2","orderQty": "1"}
+2023-12-06 15:12:57,219 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.8","orderQty": "1"}
+2023-12-06 15:12:57,322 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.4","orderQty": "1"}
+2023-12-06 15:12:57,409 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.01","orderQty": "1"}
+2023-12-06 15:27:16,295 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 15:44:59,045 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 15:45:00,254 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.61","orderQty": "1"}
+2023-12-06 15:45:00,338 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.17","orderQty": "1"}
+2023-12-06 15:45:00,436 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.73","orderQty": "1"}
+2023-12-06 15:45:00,522 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.29","orderQty": "1"}
+2023-12-06 15:45:00,613 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.86","orderQty": "1"}
+2023-12-06 15:45:00,713 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.43","orderQty": "1"}
+2023-12-06 15:45:00,828 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.0","orderQty": "1"}
+2023-12-06 15:45:00,915 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.58","orderQty": "1"}
+2023-12-06 15:45:01,005 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.16","orderQty": "1"}
+2023-12-06 15:45:01,110 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.74","orderQty": "1"}
+2023-12-06 15:45:01,202 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.32","orderQty": "1"}
+2023-12-06 15:45:01,334 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.91","orderQty": "1"}
+2023-12-06 15:45:01,433 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.5","orderQty": "1"}
+2023-12-06 15:45:01,528 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.09","orderQty": "1"}
+2023-12-06 15:45:01,635 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.69","orderQty": "1"}
+2023-12-06 15:45:01,746 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.29","orderQty": "1"}
+2023-12-06 15:45:01,888 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.89","orderQty": "1"}
+2023-12-06 15:45:01,991 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.49","orderQty": "1"}
+2023-12-06 15:45:02,084 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.1","orderQty": "1"}
+2023-12-06 15:45:02,204 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "54.71","orderQty": "1"}
+2023-12-06 15:53:30,161 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 16:06:47,366 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 16:08:33,686 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 16:08:34,926 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.85","orderQty": "1"}
+2023-12-06 16:08:35,024 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.41","orderQty": "1"}
+2023-12-06 16:08:35,117 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.97","orderQty": "1"}
+2023-12-06 16:08:35,245 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.53","orderQty": "1"}
+2023-12-06 16:08:35,391 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.09","orderQty": "1"}
+2023-12-06 16:08:35,484 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.66","orderQty": "1"}
+2023-12-06 16:08:35,585 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.23","orderQty": "1"}
+2023-12-06 16:08:35,700 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.8","orderQty": "1"}
+2023-12-06 16:08:35,830 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.38","orderQty": "1"}
+2023-12-06 16:08:35,923 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.96","orderQty": "1"}
+2023-12-06 16:08:36,039 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.54","orderQty": "1"}
+2023-12-06 16:08:36,158 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.13","orderQty": "1"}
+2023-12-06 16:08:36,264 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.72","orderQty": "1"}
+2023-12-06 16:08:36,374 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.31","orderQty": "1"}
+2023-12-06 16:08:36,844 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.9","orderQty": "1"}
+2023-12-06 16:08:36,941 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.5","orderQty": "1"}
+2023-12-06 16:08:37,081 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.1","orderQty": "1"}
+2023-12-06 16:08:37,180 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.7","orderQty": "1"}
+2023-12-06 16:08:37,269 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.31","orderQty": "1"}
+2023-12-06 16:08:37,359 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "54.92","orderQty": "1"}
+2023-12-06 16:43:21,997 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 16:43:23,202 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.65","orderQty": "1"}
+2023-12-06 16:43:23,308 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.21","orderQty": "1"}
+2023-12-06 16:43:23,404 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.77","orderQty": "1"}
+2023-12-06 16:43:23,508 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.33","orderQty": "1"}
+2023-12-06 16:43:23,619 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.9","orderQty": "1"}
+2023-12-06 16:43:23,722 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.47","orderQty": "1"}
+2023-12-06 16:43:23,821 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.04","orderQty": "1"}
+2023-12-06 16:43:23,923 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.61","orderQty": "1"}
+2023-12-06 16:43:24,027 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.19","orderQty": "1"}
+2023-12-06 16:43:24,137 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.77","orderQty": "1"}
+2023-12-06 16:43:24,237 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.35","orderQty": "1"}
+2023-12-06 16:43:24,324 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.94","orderQty": "1"}
+2023-12-06 16:43:24,430 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.53","orderQty": "1"}
+2023-12-06 16:43:24,526 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.12","orderQty": "1"}
+2023-12-06 16:43:24,629 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.72","orderQty": "1"}
+2023-12-06 16:43:24,718 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.32","orderQty": "1"}
+2023-12-06 16:43:24,810 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.92","orderQty": "1"}
+2023-12-06 16:43:24,914 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.52","orderQty": "1"}
+2023-12-06 16:43:25,009 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.13","orderQty": "1"}
+2023-12-06 16:43:25,125 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "54.74","orderQty": "1"}
+2023-12-06 17:15:30,066 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 17:19:33,454 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "1.0"}
+2023-12-06 17:19:34,652 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.59","orderQty": "1"}
+2023-12-06 17:19:34,746 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.15","orderQty": "1"}
+2023-12-06 17:19:34,986 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.71","orderQty": "1"}
+2023-12-06 17:19:35,094 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.27","orderQty": "1"}
+2023-12-06 17:19:35,191 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.84","orderQty": "1"}
+2023-12-06 17:19:35,319 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.41","orderQty": "1"}
+2023-12-06 17:19:35,417 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.98","orderQty": "1"}
+2023-12-06 17:19:35,541 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.56","orderQty": "1"}
+2023-12-06 17:19:35,715 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.14","orderQty": "1"}
+2023-12-06 17:19:35,823 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.72","orderQty": "1"}
+2023-12-06 17:19:35,920 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.3","orderQty": "1"}
+2023-12-06 17:19:36,023 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.89","orderQty": "1"}
+2023-12-06 17:19:36,139 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.48","orderQty": "1"}
+2023-12-06 17:19:36,227 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.07","orderQty": "1"}
+2023-12-06 17:19:36,330 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.67","orderQty": "1"}
+2023-12-06 17:19:36,431 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.27","orderQty": "1"}
+2023-12-06 17:19:36,547 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.87","orderQty": "1"}
+2023-12-06 17:19:36,637 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.47","orderQty": "1"}
+2023-12-06 17:19:36,836 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "55.08","orderQty": "1"}
+2023-12-06 17:19:36,943 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "54.69","orderQty": "1"}
+2023-12-06 17:40:45,493 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 17:41:27,496 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 17:41:28,745 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.46","orderQty": "3"}
+2023-12-06 17:41:28,849 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.02","orderQty": "3"}
+2023-12-06 17:41:28,973 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.58","orderQty": "3"}
+2023-12-06 17:41:29,080 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.14","orderQty": "3"}
+2023-12-06 17:41:29,187 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.71","orderQty": "3"}
+2023-12-06 17:41:29,292 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.28","orderQty": "3"}
+2023-12-06 17:41:29,397 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.85","orderQty": "3"}
+2023-12-06 17:41:29,519 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.43","orderQty": "3"}
+2023-12-06 17:41:29,649 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.01","orderQty": "3"}
+2023-12-06 17:41:29,749 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.59","orderQty": "3"}
+2023-12-06 17:41:29,862 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.17","orderQty": "3"}
+2023-12-06 17:41:30,263 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.76","orderQty": "3"}
+2023-12-06 17:41:30,371 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.35","orderQty": "3"}
+2023-12-06 17:41:30,476 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.94","orderQty": "3"}
+2023-12-06 17:41:30,593 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.54","orderQty": "3"}
+2023-12-06 18:05:57,876 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 18:15:12,906 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 18:15:14,097 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.26","orderQty": "3"}
+2023-12-06 18:15:14,202 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.82","orderQty": "3"}
+2023-12-06 18:15:14,301 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.38","orderQty": "3"}
+2023-12-06 18:15:14,392 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.95","orderQty": "3"}
+2023-12-06 18:15:14,507 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.52","orderQty": "3"}
+2023-12-06 18:15:14,607 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.09","orderQty": "3"}
+2023-12-06 18:15:14,710 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.66","orderQty": "3"}
+2023-12-06 18:15:14,804 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.24","orderQty": "3"}
+2023-12-06 18:15:14,896 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.82","orderQty": "3"}
+2023-12-06 18:15:15,000 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.4","orderQty": "3"}
+2023-12-06 18:15:15,118 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.99","orderQty": "3"}
+2023-12-06 18:15:15,404 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.58","orderQty": "3"}
+2023-12-06 18:15:15,501 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.17","orderQty": "3"}
+2023-12-06 18:15:15,594 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.76","orderQty": "3"}
+2023-12-06 18:15:15,681 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.36","orderQty": "3"}
+2023-12-06 18:39:09,882 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 18:50:40,480 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 18:50:41,682 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.53","orderQty": "3"}
+2023-12-06 18:50:41,815 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.09","orderQty": "3"}
+2023-12-06 18:50:41,916 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.65","orderQty": "3"}
+2023-12-06 18:50:42,025 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.21","orderQty": "3"}
+2023-12-06 18:50:42,123 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.78","orderQty": "3"}
+2023-12-06 18:50:42,230 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.35","orderQty": "3"}
+2023-12-06 18:50:42,346 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.92","orderQty": "3"}
+2023-12-06 18:50:42,445 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.5","orderQty": "3"}
+2023-12-06 18:50:42,541 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.08","orderQty": "3"}
+2023-12-06 18:50:42,631 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.66","orderQty": "3"}
+2023-12-06 18:50:42,734 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.24","orderQty": "3"}
+2023-12-06 18:50:42,840 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.83","orderQty": "3"}
+2023-12-06 18:50:42,930 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.42","orderQty": "3"}
+2023-12-06 18:50:43,031 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.01","orderQty": "3"}
+2023-12-06 18:50:43,136 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.61","orderQty": "3"}
+2023-12-06 19:00:19,381 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 19:37:55,725 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 19:37:57,060 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.03","orderQty": "3"}
+2023-12-06 19:37:57,359 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.58","orderQty": "3"}
+2023-12-06 19:37:57,815 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.14","orderQty": "3"}
+2023-12-06 19:37:58,301 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.7","orderQty": "3"}
+2023-12-06 19:37:58,486 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.26","orderQty": "3"}
+2023-12-06 19:37:58,777 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.83","orderQty": "3"}
+2023-12-06 19:37:58,962 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.4","orderQty": "3"}
+2023-12-06 19:37:59,084 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.97","orderQty": "3"}
+2023-12-06 19:37:59,309 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.55","orderQty": "3"}
+2023-12-06 19:37:59,407 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.13","orderQty": "3"}
+2023-12-06 19:37:59,514 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.71","orderQty": "3"}
+2023-12-06 19:37:59,669 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.29","orderQty": "3"}
+2023-12-06 19:37:59,781 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.88","orderQty": "3"}
+2023-12-06 19:37:59,888 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.47","orderQty": "3"}
+2023-12-06 19:37:59,986 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.06","orderQty": "3"}
+2023-12-06 19:40:36,820 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 19:58:42,132 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-06 20:00:29,387 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 20:00:30,635 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.31","orderQty": "3"}
+2023-12-06 20:00:30,808 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.86","orderQty": "3"}
+2023-12-06 20:00:30,932 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.41","orderQty": "3"}
+2023-12-06 20:00:31,035 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.97","orderQty": "3"}
+2023-12-06 20:00:31,137 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.53","orderQty": "3"}
+2023-12-06 20:00:31,671 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.09","orderQty": "3"}
+2023-12-06 20:00:31,777 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.66","orderQty": "3"}
+2023-12-06 20:00:31,894 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.23","orderQty": "3"}
+2023-12-06 20:00:32,011 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.8","orderQty": "3"}
+2023-12-06 20:00:32,108 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.38","orderQty": "3"}
+2023-12-06 20:00:32,200 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.96","orderQty": "3"}
+2023-12-06 20:00:32,305 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.54","orderQty": "3"}
+2023-12-06 20:00:32,447 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.13","orderQty": "3"}
+2023-12-06 20:00:32,538 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.72","orderQty": "3"}
+2023-12-06 20:00:32,699 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.31","orderQty": "3"}
+2023-12-06 20:39:00,532 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 20:39:01,742 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.01","orderQty": "3"}
+2023-12-06 20:39:01,846 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.56","orderQty": "3"}
+2023-12-06 20:39:01,951 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.12","orderQty": "3"}
+2023-12-06 20:39:02,051 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.68","orderQty": "3"}
+2023-12-06 20:39:02,300 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.24","orderQty": "3"}
+2023-12-06 20:39:02,464 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.81","orderQty": "3"}
+2023-12-06 20:39:02,581 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.38","orderQty": "3"}
+2023-12-06 20:39:02,681 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.95","orderQty": "3"}
+2023-12-06 20:39:02,782 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.53","orderQty": "3"}
+2023-12-06 20:39:02,875 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.11","orderQty": "3"}
+2023-12-06 20:39:02,963 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.69","orderQty": "3"}
+2023-12-06 20:39:03,062 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.27","orderQty": "3"}
+2023-12-06 20:39:03,161 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.86","orderQty": "3"}
+2023-12-06 20:39:03,270 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.45","orderQty": "3"}
+2023-12-06 20:39:03,371 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.04","orderQty": "3"}
+2023-12-06 21:11:25,503 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 21:11:26,698 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.95","orderQty": "3"}
+2023-12-06 21:11:26,804 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.5","orderQty": "3"}
+2023-12-06 21:11:26,900 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.06","orderQty": "3"}
+2023-12-06 21:11:26,992 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.62","orderQty": "3"}
+2023-12-06 21:11:27,095 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.18","orderQty": "3"}
+2023-12-06 21:11:27,190 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.75","orderQty": "3"}
+2023-12-06 21:11:27,278 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.32","orderQty": "3"}
+2023-12-06 21:11:27,382 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.89","orderQty": "3"}
+2023-12-06 21:11:27,470 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.47","orderQty": "3"}
+2023-12-06 21:11:27,555 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.05","orderQty": "3"}
+2023-12-06 21:11:27,822 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.63","orderQty": "3"}
+2023-12-06 21:11:27,917 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.21","orderQty": "3"}
+2023-12-06 21:11:28,023 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.8","orderQty": "3"}
+2023-12-06 21:11:28,150 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.39","orderQty": "3"}
+2023-12-06 21:11:28,240 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "56.98","orderQty": "3"}
+2023-12-06 21:45:43,677 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 22:06:42,767 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 22:06:43,973 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.99","orderQty": "3"}
+2023-12-06 22:06:44,075 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.54","orderQty": "3"}
+2023-12-06 22:06:44,172 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.09","orderQty": "3"}
+2023-12-06 22:06:44,268 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.64","orderQty": "3"}
+2023-12-06 22:06:44,364 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.2","orderQty": "3"}
+2023-12-06 22:06:44,473 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.76","orderQty": "3"}
+2023-12-06 22:06:44,608 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.32","orderQty": "3"}
+2023-12-06 22:06:44,702 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.89","orderQty": "3"}
+2023-12-06 22:06:44,803 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.46","orderQty": "3"}
+2023-12-06 22:06:44,956 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.03","orderQty": "3"}
+2023-12-06 22:06:45,075 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.6","orderQty": "3"}
+2023-12-06 22:06:45,197 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.18","orderQty": "3"}
+2023-12-06 22:06:45,444 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.76","orderQty": "3"}
+2023-12-06 22:06:45,530 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.34","orderQty": "3"}
+2023-12-06 22:06:45,638 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.93","orderQty": "3"}
+2023-12-06 22:44:09,113 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 22:44:10,323 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.74","orderQty": "3"}
+2023-12-06 22:44:10,401 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.29","orderQty": "3"}
+2023-12-06 22:44:10,495 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.84","orderQty": "3"}
+2023-12-06 22:44:10,605 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.4","orderQty": "3"}
+2023-12-06 22:44:10,698 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.96","orderQty": "3"}
+2023-12-06 22:44:10,808 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.52","orderQty": "3"}
+2023-12-06 22:44:10,901 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.08","orderQty": "3"}
+2023-12-06 22:44:11,011 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.65","orderQty": "3"}
+2023-12-06 22:44:11,135 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.22","orderQty": "3"}
+2023-12-06 22:44:11,214 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.79","orderQty": "3"}
+2023-12-06 22:44:11,308 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.37","orderQty": "3"}
+2023-12-06 22:44:11,401 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.95","orderQty": "3"}
+2023-12-06 22:44:11,495 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.53","orderQty": "3"}
+2023-12-06 22:44:11,589 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.12","orderQty": "3"}
+2023-12-06 22:44:11,683 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.71","orderQty": "3"}
+2023-12-06 23:08:17,007 DEBUG org.adapter.controller.Controller: Position close for ticker: SOLUSD
+2023-12-06 23:15:12,516 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 23:15:13,710 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.74","orderQty": "3"}
+2023-12-06 23:15:13,800 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.29","orderQty": "3"}
+2023-12-06 23:15:13,890 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.84","orderQty": "3"}
+2023-12-06 23:15:13,985 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.4","orderQty": "3"}
+2023-12-06 23:15:14,078 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.96","orderQty": "3"}
+2023-12-06 23:15:14,171 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.52","orderQty": "3"}
+2023-12-06 23:15:14,258 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.08","orderQty": "3"}
+2023-12-06 23:15:14,341 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.65","orderQty": "3"}
+2023-12-06 23:15:14,437 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.22","orderQty": "3"}
+2023-12-06 23:15:14,538 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.79","orderQty": "3"}
+2023-12-06 23:15:14,635 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.37","orderQty": "3"}
+2023-12-06 23:15:14,729 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.95","orderQty": "3"}
+2023-12-06 23:15:14,985 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.53","orderQty": "3"}
+2023-12-06 23:15:15,087 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.12","orderQty": "3"}
+2023-12-06 23:15:15,182 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.71","orderQty": "3"}
+2023-12-06 23:54:00,576 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSD","side": "Buy","orderQty": "3.0"}
+2023-12-06 23:54:01,779 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.48","orderQty": "3"}
+2023-12-06 23:54:01,857 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "63.03","orderQty": "3"}
+2023-12-06 23:54:01,951 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.58","orderQty": "3"}
+2023-12-06 23:54:02,076 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "62.14","orderQty": "3"}
+2023-12-06 23:54:02,232 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.7","orderQty": "3"}
+2023-12-06 23:54:02,326 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "61.26","orderQty": "3"}
+2023-12-06 23:54:02,420 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.83","orderQty": "3"}
+2023-12-06 23:54:02,513 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "60.4","orderQty": "3"}
+2023-12-06 23:54:02,623 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.97","orderQty": "3"}
+2023-12-06 23:54:02,717 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.55","orderQty": "3"}
+2023-12-06 23:54:02,795 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "59.13","orderQty": "3"}
+2023-12-06 23:54:02,889 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.71","orderQty": "3"}
+2023-12-06 23:54:02,967 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "58.29","orderQty": "3"}
+2023-12-06 23:54:03,061 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.88","orderQty": "3"}
+2023-12-06 23:54:03,139 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "SOLUSD","side": "Buy","ordType": "Limit","price": "57.47","orderQty": "3"}

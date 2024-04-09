@@ -1,0 +1,113 @@
+2023-12-04 19:35:29,233 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 19:35:31,179 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSDT","side": "Buy","orderQty": "100"}
+2023-12-04 19:49:54,150 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 19:49:55,484 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "SOLUSDT","side": "Buy","orderQty": "6.08"}
+2023-12-04 19:53:32,209 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 19:53:33,934 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100.0"}
+2023-12-04 19:55:03,333 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 19:56:06,372 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 19:58:31,122 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:00:24,432 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:03:21,550 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:04:44,803 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:05:52,521 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:07:21,074 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:09:09,658 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:10:09,907 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:10:47,120 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:12:07,992 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:16:10,663 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:16:13,503 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40975","orderQty": "100"}
+2023-12-04 20:16:13,626 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40360","orderQty": "100"}
+2023-12-04 20:16:13,733 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "39754","orderQty": "100"}
+2023-12-04 20:16:13,860 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "39158","orderQty": "100"}
+2023-12-04 20:16:14,134 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "38571","orderQty": "100"}
+2023-12-04 20:16:14,243 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "37992","orderQty": "100"}
+2023-12-04 20:16:14,379 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "37422","orderQty": "100"}
+2023-12-04 20:16:14,490 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "36861","orderQty": "100"}
+2023-12-04 20:16:14,589 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "36308","orderQty": "100"}
+2023-12-04 20:17:34,685 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:17:37,117 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41432","orderQty": "100"}
+2023-12-04 20:17:37,232 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41266","orderQty": "100"}
+2023-12-04 20:17:37,352 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41101","orderQty": "100"}
+2023-12-04 20:17:37,466 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40937","orderQty": "100"}
+2023-12-04 20:17:37,747 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40773","orderQty": "100"}
+2023-12-04 20:17:37,850 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40610","orderQty": "100"}
+2023-12-04 20:17:37,965 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40448","orderQty": "100"}
+2023-12-04 20:17:38,101 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40286","orderQty": "100"}
+2023-12-04 20:17:38,228 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40125","orderQty": "100"}
+2023-12-04 20:20:12,833 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:20:16,403 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41557","orderQty": "100"}
+2023-12-04 20:20:16,513 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41515","orderQty": "100"}
+2023-12-04 20:20:16,620 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41474","orderQty": "100"}
+2023-12-04 20:20:16,801 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41432","orderQty": "100"}
+2023-12-04 20:20:16,921 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41391","orderQty": "100"}
+2023-12-04 20:20:17,023 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41350","orderQty": "100"}
+2023-12-04 20:20:17,131 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41308","orderQty": "100"}
+2023-12-04 20:20:17,220 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41267","orderQty": "100"}
+2023-12-04 20:20:17,312 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41226","orderQty": "100"}
+2023-12-04 20:20:48,596 DEBUG org.adapter.controller.Controller: Position close for ticker: XBTUSD
+2023-12-04 20:31:49,328 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:31:50,768 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-04 20:31:51,495 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41683","orderQty": "100"}
+2023-12-04 20:31:51,598 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41641","orderQty": "100"}
+2023-12-04 20:31:51,719 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41599","orderQty": "100"}
+2023-12-04 20:31:51,850 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41558","orderQty": "100"}
+2023-12-04 20:31:52,129 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41516","orderQty": "100"}
+2023-12-04 20:31:52,224 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41475","orderQty": "100"}
+2023-12-04 20:31:52,336 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41433","orderQty": "100"}
+2023-12-04 20:31:52,450 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41392","orderQty": "100"}
+2023-12-04 20:31:52,560 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41350","orderQty": "100"}
+2023-12-04 20:34:33,207 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 20:34:34,613 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-04 20:34:35,363 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41573","orderQty": "100"}
+2023-12-04 20:34:35,472 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41448","orderQty": "100"}
+2023-12-04 20:34:35,578 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41324","orderQty": "100"}
+2023-12-04 20:34:35,691 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41200","orderQty": "100"}
+2023-12-04 20:34:35,794 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41076","orderQty": "100"}
+2023-12-04 20:34:35,906 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40953","orderQty": "100"}
+2023-12-04 20:34:36,017 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40830","orderQty": "100"}
+2023-12-04 20:34:36,145 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40708","orderQty": "100"}
+2023-12-04 20:34:36,248 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40586","orderQty": "100"}
+2023-12-04 21:02:45,058 DEBUG org.adapter.controller.Controller: Position close for ticker: XBTUSD
+2023-12-04 21:03:16,100 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-04 21:03:16,835 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41681","orderQty": "100"}
+2023-12-04 21:03:16,943 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41556","orderQty": "100"}
+2023-12-04 21:03:17,043 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41431","orderQty": "100"}
+2023-12-04 21:03:17,138 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41307","orderQty": "100"}
+2023-12-04 21:03:17,388 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41183","orderQty": "100"}
+2023-12-04 21:03:17,484 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41060","orderQty": "100"}
+2023-12-04 21:03:17,574 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40936","orderQty": "100"}
+2023-12-04 21:03:17,666 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40814","orderQty": "100"}
+2023-12-04 21:03:17,752 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40691","orderQty": "100"}
+2023-12-04 21:30:09,112 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 21:30:13,488 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-04 21:30:14,743 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41756","orderQty": "100"}
+2023-12-04 21:30:14,841 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41631","orderQty": "100"}
+2023-12-04 21:30:14,989 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41506","orderQty": "100"}
+2023-12-04 21:30:15,100 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41382","orderQty": "100"}
+2023-12-04 21:30:15,214 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41258","orderQty": "100"}
+2023-12-04 21:30:15,342 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41134","orderQty": "100"}
+2023-12-04 21:30:15,452 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41010","orderQty": "100"}
+2023-12-04 21:30:15,587 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40887","orderQty": "100"}
+2023-12-04 21:30:15,685 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40765","orderQty": "100"}
+2023-12-04 21:56:10,636 DEBUG org.adapter.controller.Controller: Position close for ticker: XBTUSD
+2023-12-04 21:56:40,849 DEBUG org.adapter.controller.Controller: Market Order Created, data: {"symbol": "XBTUSD","side": "Buy","orderQty": "100"}
+2023-12-04 21:56:41,550 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41858","orderQty": "100"}
+2023-12-04 21:56:41,646 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41732","orderQty": "100"}
+2023-12-04 21:56:41,760 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41607","orderQty": "100"}
+2023-12-04 21:56:41,868 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41482","orderQty": "100"}
+2023-12-04 21:56:41,954 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41358","orderQty": "100"}
+2023-12-04 21:56:42,055 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41234","orderQty": "100"}
+2023-12-04 21:56:42,156 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41110","orderQty": "100"}
+2023-12-04 21:56:42,264 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40987","orderQty": "100"}
+2023-12-04 21:56:42,415 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40864","orderQty": "100"}
+2023-12-04 22:44:24,308 DEBUG org.adapter.model.User: New user created for https://www.bitmex.com
+2023-12-04 22:44:26,362 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41778","orderQty": "100"}
+2023-12-04 22:44:26,629 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41636","orderQty": "100"}
+2023-12-04 22:44:26,730 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41495","orderQty": "100"}
+2023-12-04 22:44:26,824 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41353","orderQty": "100"}
+2023-12-04 22:44:26,921 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41213","orderQty": "100"}
+2023-12-04 22:44:27,026 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "41073","orderQty": "100"}
+2023-12-04 22:44:27,128 DEBUG org.adapter.controller.Controller: Limit Order Created, data: {"symbol": "XBTUSD","side": "Buy","ordType": "Limit","price": "40933","orderQty": "100"}
+2023-12-04 23:55:34,299 DEBUG org.adapter.controller.Controller: Position close for ticker: XBTUSD
