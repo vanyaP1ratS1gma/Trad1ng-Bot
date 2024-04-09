@@ -2,13 +2,8 @@ package org.adapter;
 
 import org.adapter.controller.Controller;
 import org.adapter.model.User;
-import org.adapter.model.enums.OrderSide;
-import org.adapter.model.enums.Ticker;
 import org.adapter.model.utils.UserInfoLoader;
 import org.adapter.strategy.ToTheMoon;
-import org.adapter.view.UserInterface;
-
-import java.util.Date;
 
 
 public class App {
@@ -30,5 +25,6 @@ public class App {
 //        controller.closePositionByTicker(Ticker.SOLUSDT);
 //        controller.canselAllOrders();
 //        Toolkit.getDefaultToolkit().beep();
+//        Add Test Line
     }
 }
